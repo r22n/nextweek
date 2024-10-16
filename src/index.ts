@@ -1,3 +1,5 @@
-import Nextweek from './Nextweek.vue';
+import App from './components/MainView.vue'
 
-export default Nextweek;
+export {
+    App
+}
